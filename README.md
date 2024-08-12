@@ -1,9 +1,11 @@
 ## from Shalini
 
+step  --- git clone https://github.com/its-shalini-gupta/university_students.git
 step 1 - npm i
 step 2 - composer i
 step 3 - php artisan session:table
 step 4 - php artisan migrate
+step 5 - php artisan db:seed
 step 5 - php artisan serve
 
  
